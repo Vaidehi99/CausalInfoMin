@@ -39,3 +39,12 @@ PYTHONPATH=$PYTHONPATH:./src python -u src/tasks/vqa.py --train train --valid va
 ```
 ### Reference
 Please cite our paper if you find our work useful:
+
+@misc{patil2023debiasing,
+      title={Debiasing Multimodal Models via Causal Information Minimization}, 
+      author={Vaidehi Patil and Adyasha Maharana and Mohit Bansal},
+      year={2023},
+      eprint={2311.xxxxx},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
