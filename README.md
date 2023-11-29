@@ -44,8 +44,8 @@ Please cite our paper if you find our work useful:
       title={Debiasing Multimodal Models via Causal Information Minimization}, 
       author={Vaidehi Patil and Adyasha Maharana and Mohit Bansal},
       year={2023},
-      eprint={2311.xxxxx},
+      eprint={2311.16941},
       archivePrefix={arXiv},
-      primaryClass={cs.CL}
+      primaryClass={cs.LG}
 }
 ```
