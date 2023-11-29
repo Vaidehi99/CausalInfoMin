@@ -5,7 +5,7 @@ This repository includes PyTorch code for the EMNLP 2023 (Findings) paper:
 [Debiasing Multimodal Models via Causal Information Minimization](https://arxiv.org/abs/2311.16941)
 
 * Authors: [Vaidehi Patil](https://vaidehi99.github.io/), [Adyasha Maharana](https://adymaharana.github.io/) and [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
-* Paper: [arXiv]()
+* Paper: [arXiv](https://arxiv.org/abs/2311.16941)
 
 ![image](./assets/ate-d_fig.png)
 ![image](./assets/te-d_fig.png)
